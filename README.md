@@ -1,2 +1,2 @@
-# gerenciamento de tarefa
+# Gerenciador de tarefa
  Projeto realizado com framework angular 
